@@ -1,6 +1,6 @@
-# Private-Usage
+# IoT related articles
 
-|#|Sections|Remarks|
-|--|---------|---------|
-|01|[Azure Docs](./Azure%20Docs/Readme.md)|---|
-|02|[Tech Tips](./TechTips/Readme.md)|---|
+|#|Service|remarks|
+|---|---|---|
+|-|[IoT Digital Twin Demo](./articles/IoTDigitalTwinDemo.md)|---|
+|-|[Reference links](./articles/IoTrelatedlinks.md)|---|
