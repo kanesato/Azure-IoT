@@ -52,9 +52,9 @@ from azure.iot.device import IoTHubDeviceClient, Message
 # ------------------
 # --- Defination ---
 # ------------------
+# Replace the value of CONNECTION_STRING with the primary connection string of the device you created in the Azure portal.
 # CONNECTION_STRING = os.getenv("IOTHUB_DEVICE_CONNECTION_STRING")
 # CONNECTION_STRING = ""
-# Replace the value of CONNECTION_STRING with the primary connection string of the device you created in the Azure portal.
 CONNECTION_STRING = < device connection_string >
 
 # --- Definition of the BME280 sensor ---
@@ -69,9 +69,9 @@ calibration_params = bme280.load_calibration_params(bus, address)
 TEMPERATURE = 20.0
 HUMIDITY = 60
 # MSG_TXT = '{{"Temperature":{temperature},"humidity(H)": {humidity},"pressure(hPa)": {pressure},"timestamp": {timestamp}}}'
-MSG_TXT = "{\"Temperature\": %f,\"Humidity\": %f,\"Pressure\": %f}"
 # MSG_TXT = "{\"Temperature\": %f,\"humidity\": %f}"
 # MSG_TXT = "{\"Temperature\":%f}"
+MSG_TXT = "{\"Temperature\": %f,\"Humidity\": %f,\"Pressure\": %f}"
 
 def run_telemetry_sample(client):
     # This sample will send temperature telemetry every second

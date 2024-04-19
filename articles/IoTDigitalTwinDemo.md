@@ -6,8 +6,11 @@
 
 1. ### Connect a BME280 sensor to a Raspberry Pi<br>
 
-    - [reference]:【Raspberry Pi】温湿度センサー（BME280）を動かす方法 / How to connect a BME280 sensor to a Raspberry Pi<br>
+    - [reference]: How to connect a BME280 sensor with a Raspberry Pi<br>
 (https://www.radical-dreamer.com/programming/raspberry-pi-bcm280/)<br>
+
+    - [reference]:How to use a BME280 sensor with a Raspberry Pi<br> 
+(https://randomnerdtutorials.com/raspberry-pi-bme280-python/)
 
     - The sample code(Python) for sending telemetry data from Raspberry Pi to an Azure IoT Hub<br>
 [link](./Resources/RaspberryPi/iothub-device.md)
