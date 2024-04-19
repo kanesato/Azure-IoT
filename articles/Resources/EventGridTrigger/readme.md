@@ -1,4 +1,4 @@
-[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#event-grid)
+[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#-event-grid-)
 
 ### Create an Event Grid subscription to transport telemetry data from a specific IoT Hub to a specific Digital Twins
 ```bash

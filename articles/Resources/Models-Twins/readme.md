@@ -1,5 +1,5 @@
 
-[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#azure-digital-twins)
+[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#-azure-digital-twins-)
 
 > ### Reference links
 - 【Azure Digital Twins】IoTデバイスの状態を可視化する（前編）<br>

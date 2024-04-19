@@ -1,4 +1,4 @@
-[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#azure-functions)
+[Back to the demo's homepage](../../IoTDigitalTwinDemo.md#-azure-functions-)
 
 ## How to create the functions' zip files
 
