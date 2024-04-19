@@ -1,6 +1,6 @@
-> # IoT related links
+# IoT related links
 
-> ## Azure IoT Hub <br>
+## Azure IoT Hub <br>
 
 - [Azure IoT SDK for Python]<br>
 (https://github.com/Azure/azure-iot-sdk-python)<br>
@@ -8,7 +8,7 @@
 <br>
 
 ------------------------------------------------------------
-> ## Azure IoT Digital Twins <br>
+## Azure IoT Digital Twins <br>
 
 - What is Azure Digital Twins? (Microsoft Learn) <br>
 (https://learn.microsoft.com/en-us/azure/digital-twins/overview)<br>
@@ -28,7 +28,7 @@
 <br>
 
 ------------------------------------------------------------
-> ## Raspberry PI
+## Raspberry PI
 
 - 【Raspberry Pi】温湿度センサー（BME280）を動かす方法 / How to connect a BME280 sensor to a Raspberry Pi<br>
 (https://www.radical-dreamer.com/programming/raspberry-pi-bcm280/) <br>
@@ -52,7 +52,8 @@
 <br>
 
 ------------------------------------------------------------
-> ## Tutorial 
+## Tutorial 
+
 - Quickstart - Get started with a sample scenario in Azure Digital Twins Explorer<br>
 (https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-azure-digital-twins-explorer)
 
@@ -61,5 +62,7 @@
 
 - Quickstart - Get started with 3D Scenes Studio (preview) for Azure Digital Twins<br>
 (https://learn.microsoft.com/en-us/azure/digital-twins/quickstart-3d-scenes-studio)<br>
+
+- [Demo : Transport temperature data from a Raspberry Pi to a Digital Twins via an  IoT Hub](./IoTDigitalTwinDemo.md)
 
 <br>
