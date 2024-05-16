@@ -12,11 +12,11 @@
 
 - ### Create two models on a specific Digital Twins instance 
 ```bash
-az dt model create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --models /Volumes/ExtraDisk/Github/AzureDoc/TechTips/articles/IoTRef/Models-Twins/Room.json
+az dt model create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --models /Volumes/ExtraDisk/Github/Azure-IoT/articles/Resources/Models-Twins/Room.json
 ```
 
 ```bash
-az dt model create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --models /Volumes/ExtraDisk/Github/AzureDoc/TechTips/articles/IoTRef/Models-Twins/Thermostat.json
+az dt model create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --models /Volumes/ExtraDisk/Github/Azure-IoT/articles/Resources/Models-Twins/Thermostat.json
 ```
 
 - ### Create two twins on a specific Digital Twins instance

@@ -1,0 +1,28 @@
+{
+    "@id": "dtmi:sample:DigitalTwins:thermostat2;1",
+    "@context": "dtmi:dtdl:context;2",
+    "@type": "Interface",
+    "displayName": "thermostat2",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "DisplayName",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "Temperature",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "Humidity",
+        "schema": "double"
+      },
+      {
+        "@type": "Property",
+        "name": "Pressure",
+        "schema": "double"
+      }
+    ]
+  }
