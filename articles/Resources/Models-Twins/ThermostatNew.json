@@ -1,5 +1,5 @@
 {
-    "@id": "dtmi:sample:DigitalTwins:thermostat2;1",
+    "@id": "dtmi:sample:DigitalTwins:thermostat1;1",
     "@context": "dtmi:dtdl:context;2",
     "@type": "Interface",
     "displayName": "thermostat2",
