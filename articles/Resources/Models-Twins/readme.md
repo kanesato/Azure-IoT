@@ -25,12 +25,12 @@ az dt twin create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --dtmi "dtmi:s
 ```
 
 ```bash
-az dt twin create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --dtmi "dtmi:sample:DigitalTwins:thermostat;1" --twin-id thermostat
+az dt twin create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --dtmi "dtmi:sample:DigitalTwins:thermostat;1" --twin-id thermostat1
 ```
 
 - ### Update a relationship between two twins on a specific Digital Twins instance
 ```bash
-az dt twin relationship create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --relationship-id room --relationship contains --twin-id room --target thermostat
+az dt twin relationship create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" --relationship-id room --relationship contains --twin-id room --target thermostat1
 ```
 
 <br>
