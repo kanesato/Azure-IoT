@@ -39,7 +39,6 @@ az dt twin relationship create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" -
 
 ## Reference
 - room.json
-<br>
 ```bash
 {
     "@id": "dtmi:sample:room;2",
@@ -60,8 +59,9 @@ az dt twin relationship create -n "adt-demo-dt.api.jpe.digitaltwins.azure.net" -
   }
 ```
 
-- thermostat.json
 <br>
+
+- thermostat.json
 ```bash
 {
     "@id": "dtmi:sample:DigitalTwins:thermostat;1",
