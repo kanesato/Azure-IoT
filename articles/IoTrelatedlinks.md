@@ -2,6 +2,9 @@
 
 ## Azure IoT Hub <br>
 
+- [Azure IoT SDK]<br>
+(https://learn.microsoft.com/ja-jp/azure/iot/iot-sdks)
+
 - [Azure IoT SDK for Python]<br>
 (https://github.com/Azure/azure-iot-sdk-python)<br>
 
@@ -41,9 +44,6 @@
 
 - ★Azure IoT HubにRaspberry Piで収集した温度データを送ってみた<br>
 (https://www.tama-negi.com/2020/11/11/azure-iot-raspberry4/)<br>
-
-- Azure-iot-sdk-python<br>
-(https://github.com/Azure/azure-iot-sdk-python)<br>
 
 - Azureに入門！ラズパイとPythonから接続してみた！<br>
 ※ Having the method to receive messages from Azure IoT Hub<br>
