@@ -14,6 +14,15 @@
 <br>
 
 ------------------------------------------------------------
+## Scripts : sending messages scripts for BME280 sensor and BMP280 sensor
+
+- [BME280 sensor](./Resources/ScriptSourceCode/bme280.md)
+
+- [BMP280 sensor](./Resources/ScriptSourceCode/bmp280.md)
+
+
+
+------------------------------------------------------------
 ## Azure IoT Digital Twins <br>
 
 - What is Azure Digital Twins? (Microsoft Learn) <br>
