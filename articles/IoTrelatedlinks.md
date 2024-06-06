@@ -5,6 +5,9 @@
 - [Azure IoT SDK]<br>
 (https://learn.microsoft.com/ja-jp/azure/iot/iot-sdks)
 
+- [Azure IoT デバイスの開発]<br>
+(https://learn.microsoft.com/ja-jp/azure/iot/concepts-iot-device-development)
+
 - [Azure IoT SDK for Python]<br>
 (https://github.com/Azure/azure-iot-sdk-python)<br>
 
