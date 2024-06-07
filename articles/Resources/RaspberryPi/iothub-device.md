@@ -23,7 +23,10 @@ sudo pip install RPI.BME280
 ```bash
 pip install pytz
 ```
-
+- Install Azure IoT Hub SDK 
+```bash
+pip install azure-iot-device
+```
 
 ## - Copy the code below and save it as a Python file (e.g., `iothub-device.py`) on a Raspberry Pi.
 
